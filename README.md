@@ -50,5 +50,5 @@
 
 ## ⚡ Let's Connect!
 * 📧 **Email:** dparhomenko532@gmail.com
-* 💼 **LinkedIn:** [Your LinkedIn Link Here]
+* 💼 **LinkedIn:** www.linkedin.com/in/dmytro-parkhomenko-ab79923b0
 * 📈 **LeetCode Profiles:** Currently actively engineering algorithmic solutions for arrays, hash maps, and multi-pointer sequences.
