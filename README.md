@@ -31,13 +31,6 @@
 * **Dimensionality Reduction & Clustering:** Implemented **Principal Component Analysis (PCA)** and **K-Means clustering** for advanced exploratory pattern recognition.
 * **Classification Engine:** Optimized **Random Forest** and **Support Vector Machine (SVM)** classifiers to achieve maximum precision in real-time state recognition.
 
-### 📈 [Independent Crypto Asset Management Engine](https://github.com/YOUR_USERNAME/crypto-portfolio-manager)
-*An analytical approach to multi-axis asset evaluation, position sizing, and volatility smoothing.*
-* Applied traditional risk mitigation frameworks to a highly volatile digital asset portfolio.
-* Leveraged systematic technical and fundamental research to map out position sizes, achieving a disciplined 10% ROI within a 90-day test window.
-
----
-
 ## 📊 GitHub Metrics & Activity
 
 <p align="left">
